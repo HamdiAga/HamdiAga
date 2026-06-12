@@ -1,7 +1,7 @@
 <!-- تحية متحركة -->
 <img src="https://github.com/HamdiAga/HamdiAga/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders" />
 
-# مرحباً، أنا حمدي فواز أبو حاتم 🇸🇦
+# مرحباً، أنا حمدي فواز 🇮🇩 🇸🇦
 ### 🧑‍💻 Full Stack Web Developer & E-Marketing Specialist
 
 [![Website](https://img.shields.io/badge/موقعي_الشخصي-hamdifawazabohatem.runasp.net-brightgreen)](https://hamdifawazabohatem.runasp.net/)
