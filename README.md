@@ -4,8 +4,9 @@
 # مرحباً، أنا حمدي فواز 🇮🇩 🇸🇦
 ### 🧑‍💻 Full Stack Web Developer & E-Marketing Specialist
 
-[![Website](https://img.shields.io/badge/موقعي_الشخصي-hamdifawazabohatem.runasp.net-brightgreen)](https://hamdifawazabohatem.runasp.net/)
-[![Blog](https://img.shields.io/badge/مدونتي_التقنية-notehamdifawazabohatem.runasp.net-green)](https://notehamdifawazabohatem.runasp.net/)
+[![My_Site_Profile](https://img.shields.io/badge/My_Site_Profile-hamdifawazabohatem.runasp.net-brightgreen)](https://hamdifawazabohatem.runasp.net/)
+[![My_Note](https://img.shields.io/badge/My_Note-notehamdifawazabohatem.runasp.net-green)](https://notehamdifawazabohatem.runasp.net/)
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-967775096844-25D366?logo=whatsapp)](https://wa.me/967775096844)
 [![Email](https://img.shields.io/badge/Email-abohatemhamdi1%40gmail.com-red?logo=gmail)](mailto:abohatemhamdi1@gmail.com)
 
