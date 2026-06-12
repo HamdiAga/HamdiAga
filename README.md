@@ -21,7 +21,7 @@
 
 ### 💚 عني
 
-Full Stack Developer ، خبير في ببناء حلول ويب ومتاجر إلكترونية وانظمة ERP متكاملة.  
+Full Stack Developer ، خبير في ببناء حلول ويب ومتاجر إلكترونية وانظمة سوفت وير متكاملة.  
 أمزج بين تطوير الويب والتسويق الإلكتروني لأقدم تجارب تقنية تجمع بين الجمال والأداء.  
 أعمل بشكل متقن على منصات مثل **سلة**، **زِد**، و**شوبفاي**، وأبني أنظمة دفع محلية، لوحات تحكم، وأدوات أتمتة متقدمة.
 
@@ -65,7 +65,7 @@ Full Stack Developer ، خبير في ببناء حلول ويب ومتاجر إ
 ![N8N](https://img.shields.io/badge/N8N-Automation-red)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/GTM-246FDB?style=flat&logo=googletagmanager&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0467DF?style=flat&logo=meta&logoColor=white)
+![Ads Manager](https://img.shields.io/badge/Ads%20Ads-0467DF?style=flat&logo=meta&logoColor=white)
 
 **التصميم والإنتاجية:**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
