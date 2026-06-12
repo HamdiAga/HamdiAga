@@ -85,9 +85,9 @@ Full Stack Developer ، خبير في ببناء حلول ويب ومتاجر إ
 ### 🚀 أنا مشغول الآن بـ...
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="300" />
 
-> 🧠 Building the future of Saudi e-commerce  
+> 🧠 Building the future of Saudi e-commerce & Software
 > 📊 Automating business reports & marketing funnels  
-> 🛒 Developing custom Shopify & Salla solutions
+> 🛒 Developing custom Shopify & Salla solutions & WordPress 
 
 ---
 
