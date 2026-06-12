@@ -14,7 +14,11 @@
 ### 🔐 معلومات مهمة للزوار
 
 > **معظم مشاريعي البرمجية خاصة (Private)**، خصوصاً تلك التي طورتها في مجال التسويق الإلكتروني وأتمتة الأعمال.  
-> إذا كنت مهتماً بالاطلاع عليها أو التعاون، راسلني على **الإيميل** أو **واتساب** وسأشاركك التفاصيل بكل سرور.
+> إذا كنت مهتماً بالاطلاع عليها، ارسل لي ايميلك لكي اجعلها متاحة لك عبر الإيميل أو واتساب الخاص بي.
+
+> **Important Note for Visitors**  
+> Most of my software projects are **Private**, especially those developed in the field of e-marketing and business automation.  
+> If you are interested in viewing them, send me your email so I can make them accessible to you via my email or WhatsApp.
 
 ---
 
