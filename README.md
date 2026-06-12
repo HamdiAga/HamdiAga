@@ -1,6 +1,4 @@
-<!-- تحية متحركة -->
-https://raw.githubusercontent.com/HamdiAga/HamdiAga/main/images/8474f4c0-6620-11f1-b5ed-ad11a57d99b1.gif
-
+<img src="https://raw.githubusercontent.com/HamdiAga/HamdiAga/main/images/8474f4c0-6620-11f1-b5ed-ad11a57d99b1.gif" width="60%" />
 # Hello, I'm Hamdi Fawaz 👋
 ### 🧑‍💻 Full Stack Web Developer & E-Marketing Specialist
 
