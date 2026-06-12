@@ -65,7 +65,7 @@ Full Stack Developer ، خبير في ببناء حلول ويب ومتاجر إ
 ![N8N](https://img.shields.io/badge/N8N-Automation-red)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/GTM-246FDB?style=flat&logo=googletagmanager&logoColor=white)
-![Ads Manager](https://img.shields.io/badge/Ads%20Ads-0467DF?style=flat&logo=meta&logoColor=white)
+![Ads Manager](https://img.shields.io/badge/Ads%20-0467DF?style=flat&logo=meta&logoColor=white)
 
 **التصميم والإنتاجية:**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
