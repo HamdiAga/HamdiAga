@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/HamdiAga/HamdiAga/main/images/8474f4c0-6620-11f1-b5ed-ad11a57d99b1.gif" width="60%" />
 # Hello, I'm Hamdi Fawaz 👋
-### 🧑‍💻 Full Stack Developer & E-Marketing Specialist
+### 🧑‍💻 Full Stack Developer & E-Marketing Specialist.
 
 [![My_Site_Profile](https://img.shields.io/badge/My_Site_Profile-hamdifawazabohatem.runasp.net-brightgreen)](https://hamdifawazabohatem.runasp.net/)
 [![My_Note](https://img.shields.io/badge/My_Note-notehamdifawazabohatem.runasp.net-green)](https://notehamdifawazabohatem.runasp.net/)
