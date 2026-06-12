@@ -1,12 +1,11 @@
 <!-- تحية متحركة -->
-<img src="https://github.com/HamdiAga/HamdiAga/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders" />
 
-# مرحباً، أنا حمدي فواز
+# Hello, I'm Hamdi Fawaz 👋
 ### 🧑‍💻 Full Stack Web Developer & E-Marketing Specialist
 
 [![My_Site_Profile](https://img.shields.io/badge/My_Site_Profile-hamdifawazabohatem.runasp.net-brightgreen)](https://hamdifawazabohatem.runasp.net/)
 [![My_Note](https://img.shields.io/badge/My_Note-notehamdifawazabohatem.runasp.net-green)](https://notehamdifawazabohatem.runasp.net/)
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-967775096844-25D366?logo=whatsapp)](https://wa.me/967775096844)
 [![Email](https://img.shields.io/badge/Email-abohatemhamdi1%40gmail.com-red?logo=gmail)](mailto:abohatemhamdi1@gmail.com)
 
@@ -19,19 +18,17 @@
 
 ---
 
-### 💚 عني
+### 💚 About Me
 
-Full Stack Developer ، خبير في ببناء حلول ويب ومتاجر إلكترونية وانظمة سوفت وير متكاملة.  
-أمزج بين تطوير الويب والتسويق الإلكتروني لأقدم تجارب تقنية تجمع بين الجمال والأداء.  
-أعمل بشكل متقن على منصات مثل **سلة**، **زِد**، و**شوبفاي**، وأبني أنظمة دفع محلية، لوحات تحكم، وأدوات أتمتة متقدمة.
+Full Stack Developer, expert in building web solutions, e-commerce stores, and integrated software systems.
 
 ---
 
-### 🛠️ التقنيات والأدوات
+### 🛠️ Technologies & Tools
 
 ![Tools I Use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-brightgreen)
 
-**لغات البرمجة والإطارات:**
+**Languages & Frameworks:**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -47,34 +44,39 @@ Full Stack Developer ، خبير في ببناء حلول ويب ومتاجر إ
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-**قواعد البيانات:**
+**Web & E-Commerce Development:**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web_Development-FF6F00?style=flat&logo=web&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woo&logoColor=white)
+
+**Databases:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-**أدوات DevOps والاستضافة:**
+**DevOps & Hosting:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS_Management-important)
+![VPS Management](https://img.shields.io/badge/VPS_Management-important)
 ![Shared Hosting](https://img.shields.io/badge/Shared_Hosting_Expert-9cf)
 
-**التسويق التقني والأتمتة:**
+**Marketing & Automation:**
 ![N8N](https://img.shields.io/badge/N8N-Automation-red)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/GTM-246FDB?style=flat&logo=googletagmanager&logoColor=white)
-![Ads Manager](https://img.shields.io/badge/Ads%20-0467DF?style=flat&logo=meta&logoColor=white)
+![Ads Manager](https://img.shields.io/badge/Ads_Manager-0467DF?style=flat&logo=meta&logoColor=white)
 
-**التصميم والإنتاجية:**
+**Design & Productivity:**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
-**الأنظمة:**
+**Operating Systems:**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
@@ -82,35 +84,35 @@ Full Stack Developer ، خبير في ببناء حلول ويب ومتاجر إ
 
 ---
 
-### 🚀 أنا مشغول الآن بـ...
+### 🚀 I'm currently busy with...
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="300" />
 
-> 🧠 Building the future of Saudi e-commerce & Software
+> 🧠 Building the future of e-commerce  
 > 📊 Automating business reports & marketing funnels  
-> 🛒 Developing custom Shopify & Salla solutions & WordPress 
+> 🛒 Developing custom Shopify & Salla solutions
 
 ---
 
-### 📊 إحصائيات GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP-XD&layout=compact&theme=dark&title_color=00ff00&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HamdiAga&show_icons=true&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdiAga&layout=compact&theme=dark&title_color=00ff00&text_color=ffffff&bg_color=0d1117" width="48%" />
 </div>
 
 ---
 
 ### 💡 Fun Fact
 > Debugging is like being a detective in a crime movie where you are also the murderer.  
-> *ومع ذلك، أكثر الحلول المالية روعةً تبدأ من سطر كود مخفي في سيرفر سعودي 🇸🇦*
+> *ومع ذلك، أكثر الحلول المالية روعةً تبدأ من سطر كود مخفي في سيرفر*
 
 ---
 
-### 📮 للتواصل والتعاون
+### 📮 Contact & Collaboration
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-967775096844-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/967775096844)
 [![Email](https://img.shields.io/badge/Gmail-abohatemhamdi1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abohatemhamdi1@gmail.com)
 
 ---
 
-**شكراً لزيارتك 🤝**
+**Thanks for visiting 🤝**
